@@ -1,0 +1,827 @@
+State,County,Tract,Population,Black,Hispanic,Mail-In,CDBG Total,CDBG per person,Black or Hispanic (%)
+Connecticut,Fairfield County,9001010101,4476,53,197,75.3,,0,5.6
+Connecticut,Fairfield County,9001010102,4330,46,216,84,,0,6.1
+Connecticut,Fairfield County,9001010201,3421,28,189,76.8,373580,109.2,6.3
+Connecticut,Fairfield County,9001010202,5359,43,418,77.7,144900,27.0,8.6
+Connecticut,Fairfield County,9001010300,4010,55,172,85.3,82600,20.6,5.7
+Connecticut,Fairfield County,9001010400,5290,53,599,75.5,181542,34.3,12.3
+Connecticut,Fairfield County,9001010500,5494,430,1173,72.9,418422.63,76.2,29.2
+Connecticut,Fairfield County,9001010600,1845,63,235,75.7,1292159.96,700.4,16.2
+Connecticut,Fairfield County,9001010700,3579,130,470,82.6,1433959.52,400.7,16.8
+Connecticut,Fairfield County,9001010800,3388,37,218,77.5,114788,33.9,7.5
+Connecticut,Fairfield County,9001010900,4870,126,443,81.1,303352.79,62.3,11.7
+Connecticut,Fairfield County,9001011000,5263,44,246,82.2,29650,5.6,5.5
+Connecticut,Fairfield County,9001011100,4894,19,304,85,140940,28.8,6.6
+Connecticut,Fairfield County,9001011200,1733,17,116,75.2,128355.86,74.1,7.7
+Connecticut,Fairfield County,9001011300,3219,88,968,75.3,,0,32.8
+Connecticut,Fairfield County,9001020100,3523,820,739,74.7,7137044.16,2025.8,44.3
+Connecticut,Fairfield County,9001020200,3687,107,157,81.8,,0,7.2
+Connecticut,Fairfield County,9001020300,7263,237,338,82.9,99999.5,13.8,7.9
+Connecticut,Fairfield County,9001020400,3586,109,228,83.2,184296.11,51.4,9.4
+Connecticut,Fairfield County,9001020500,4896,133,247,81.7,,0,7.8
+Connecticut,Fairfield County,9001020600,4952,241,605,78.8,318533,64.3,17.1
+Connecticut,Fairfield County,9001020700,4352,92,232,84.8,50703,11.7,7.4
+Connecticut,Fairfield County,9001020800,2939,87,217,81.9,,0,10.3
+Connecticut,Fairfield County,9001020900,4906,405,813,74.7,,0,24.8
+Connecticut,Fairfield County,9001021000,3499,233,453,75.1,15000,4.3,19.6
+Connecticut,Fairfield County,9001021100,5976,520,1182,71.2,468583.86,78.4,28.5
+Connecticut,Fairfield County,9001021200,4177,220,413,81.7,70540.5,16.9,15.2
+Connecticut,Fairfield County,9001021300,4422,691,1159,79.8,102939,23.3,41.8
+Connecticut,Fairfield County,9001021400,6690,2077,2991,68.5,622169.33,93.0,75.8
+Connecticut,Fairfield County,9001021500,6303,2013,3372,63.2,3080933.32,488.8,85.4
+Connecticut,Fairfield County,9001021600,7151,800,1141,72.2,1123144.46,157.1,27.1
+Connecticut,Fairfield County,9001021700,7354,1173,1477,73,175000,23.8,36.0
+Connecticut,Fairfield County,9001021801,4334,479,987,81.2,,0,33.8
+Connecticut,Fairfield County,9001021802,5408,1283,1765,75.7,,0,56.4
+Connecticut,Fairfield County,9001021900,5713,514,1735,69.8,,0,39.4
+Connecticut,Fairfield County,9001022000,2959,582,996,67.5,,0,53.3
+Connecticut,Fairfield County,9001022100,7213,1120,3555,67.2,203000,28.1,64.8
+Connecticut,Fairfield County,9001022200,3186,584,2066,59.2,2290502.31,718.9,83.2
+Connecticut,Fairfield County,9001022300,5763,1539,2202,68.4,88163.91,15.3,64.9
+Connecticut,Fairfield County,9001022400,2391,47,118,82.5,,0,6.9
+Connecticut,Fairfield County,9001030100,3502,16,105,81.7,,0,3.5
+Connecticut,Fairfield County,9001030200,3442,9,112,83.2,,0,3.5
+Connecticut,Fairfield County,9001030300,4156,7,138,84,40000,9.6,3.5
+Connecticut,Fairfield County,9001030400,3958,34,187,82.2,,0,5.6
+Connecticut,Fairfield County,9001030500,5674,32,201,82,,0,4.1
+Connecticut,Fairfield County,9001035100,7406,131,304,78.7,500000,67.5,5.9
+Connecticut,Fairfield County,9001035200,3316,18,67,83.2,,0,2.6
+Connecticut,Fairfield County,9001035300,3937,17,84,85.1,50000,12.7,2.6
+Connecticut,Fairfield County,9001035400,5079,28,115,84.2,,0,2.8
+Connecticut,Fairfield County,9001042500,3719,130,191,84.1,172846.98,46.5,8.6
+Connecticut,Fairfield County,9001042600,3911,215,415,82.4,306255,78.3,16.1
+Connecticut,Fairfield County,9001042700,4578,324,571,78.4,321245.99,70.2,19.6
+Connecticut,Fairfield County,9001042800,4606,417,661,81.6,46000,10.0,23.4
+Connecticut,Fairfield County,9001042900,1651,32,101,84.2,,0,8.1
+Connecticut,Fairfield County,9001043000,3090,175,413,77.9,305797.4,99.0,19.0
+Connecticut,Fairfield County,9001043100,4341,317,412,81,82530.31,19.0,16.8
+Connecticut,Fairfield County,9001043200,3074,536,863,70.8,166149,54.0,45.5
+Connecticut,Fairfield County,9001043300,3196,401,937,76.7,,0,41.9
+Connecticut,Fairfield County,9001043400,4471,841,1714,74.8,147100,32.9,57.1
+Connecticut,Fairfield County,9001043500,2604,235,328,81,15693.7,6.0,21.6
+Connecticut,Fairfield County,9001043600,3080,182,489,81.2,8429937.85,2737.0,21.8
+Connecticut,Fairfield County,9001043700,2039,441,903,64.3,919877.82,451.1,65.9
+Connecticut,Fairfield County,9001043800,7650,1289,2278,77.9,100909.57,13.2,46.6
+Connecticut,Fairfield County,9001043900,5456,575,1152,78.6,14187.71,2.6,31.7
+Connecticut,Fairfield County,9001044000,5974,1438,2555,72.9,301620.31,50.5,66.8
+Connecticut,Fairfield County,9001044100,3509,878,1401,65.8,1089805.03,310.6,64.9
+Connecticut,Fairfield County,9001044200,3994,478,1297,71.4,242363,60.7,44.4
+Connecticut,Fairfield County,9001044300,3898,220,555,77.9,25820,6.6,19.9
+Connecticut,Fairfield County,9001044400,3572,1113,1398,72.1,24500,6.9,70.3
+Connecticut,Fairfield County,9001044500,3641,1212,2043,61,340094.5,93.4,89.4
+Connecticut,Fairfield County,9001044600,3549,23,93,81.9,179389.52,50.5,3.3
+Connecticut,Fairfield County,9001045101,4170,15,108,86.6,,0,2.9
+Connecticut,Fairfield County,9001045102,6034,76,230,82.6,,0,5.1
+Connecticut,Fairfield County,9001045200,2367,30,64,82.8,,0,4.0
+Connecticut,Fairfield County,9001045300,2461,17,64,85.3,,0,3.3
+Connecticut,Fairfield County,9001045400,3030,26,71,84.8,,0,3.2
+Connecticut,Fairfield County,9001050100,3828,27,107,84,,0,3.5
+Connecticut,Fairfield County,9001050200,4008,33,138,82.2,,0,4.3
+Connecticut,Fairfield County,9001050300,8122,90,291,83.6,,0,4.7
+Connecticut,Fairfield County,9001050400,2341,55,115,73,,0,7.3
+Connecticut,Fairfield County,9001050500,4744,53,178,79.6,50000,10.5,4.9
+Connecticut,Fairfield County,9001050600,3348,34,103,87.4,,0,4.1
+Connecticut,Fairfield County,9001055100,5807,93,214,83.5,,0,5.3
+Connecticut,Fairfield County,9001055200,4372,37,122,81.7,,0,3.6
+Connecticut,Fairfield County,9001060100,4152,98,199,84.9,87680.66,21.1,7.2
+Connecticut,Fairfield County,9001060200,4164,34,155,87.4,29293.57,7.0,4.5
+Connecticut,Fairfield County,9001060300,4088,30,134,87.7,,0,4.0
+Connecticut,Fairfield County,9001060400,4443,46,106,79.7,40912,9.2,3.4
+Connecticut,Fairfield County,9001060500,2841,24,64,87.5,,0,3.1
+Connecticut,Fairfield County,9001060600,2336,32,103,80.7,91154,39.0,5.8
+Connecticut,Fairfield County,9001060700,7675,126,384,87.8,12370.57,1.6,6.6
+Connecticut,Fairfield County,9001060800,2139,23,63,84.3,164902.84,77.1,4.0
+Connecticut,Fairfield County,9001060900,2447,4,96,89,,0,4.1
+Connecticut,Fairfield County,9001061000,3816,78,257,80.6,219401.47,57.5,8.8
+Connecticut,Fairfield County,9001061100,3771,50,135,84.8,81383.5,21.6,4.9
+Connecticut,Fairfield County,9001061200,2186,56,250,78.5,285488.48,130.6,14.0
+Connecticut,Fairfield County,9001061300,2954,112,284,77.2,136027.15,46.0,13.4
+Connecticut,Fairfield County,9001061400,2736,178,419,70.3,365980.92,133.8,21.8
+Connecticut,Fairfield County,9001061500,4692,75,191,77.4,2327836.39,496.1,5.7
+Connecticut,Fairfield County,9001061600,4964,49,159,79.2,680100.05,137.0,4.2
+Connecticut,Fairfield County,9001070100,5021,347,922,75.3,44237,8.8,25.3
+Connecticut,Fairfield County,9001070200,4052,1126,1753,67.9,284138.86,70.1,71.1
+Connecticut,Fairfield County,9001070300,1297,557,704,50.9,475683.42,366.8,97.2
+Connecticut,Fairfield County,9001070400,1693,442,259,70.3,40000,23.6,41.4
+Connecticut,Fairfield County,9001070500,2801,790,1175,57.8,7000,2.5,70.2
+Connecticut,Fairfield County,9001070600,2445,909,849,71.7,27243458.04,11142.5,71.9
+Connecticut,Fairfield County,9001070900,2584,882,1399,62.7,687081.11,265.9,88.3
+Connecticut,Fairfield County,9001071000,3563,1253,1760,60.6,59857.85,16.8,84.6
+Connecticut,Fairfield County,9001071100,4576,1730,1949,56.5,539159.29,117.8,80.4
+Connecticut,Fairfield County,9001071200,5205,1885,2227,63,557277.59,107.1,79.0
+Connecticut,Fairfield County,9001071300,3030,1157,1401,56.6,1050307.59,346.6,84.4
+Connecticut,Fairfield County,9001071400,3861,726,2089,52.3,153206.7,39.7,72.9
+Connecticut,Fairfield County,9001071600,2448,788,1364,50.8,228756.48,93.4,87.9
+Connecticut,Fairfield County,9001071900,4831,1576,1795,55.1,119100.18,24.7,69.8
+Connecticut,Fairfield County,9001072000,3565,1068,1281,55.4,308639,86.6,65.9
+Connecticut,Fairfield County,9001072100,6094,1503,1644,75.3,135051.76,22.2,51.6
+Connecticut,Fairfield County,9001072200,3828,762,1005,75.5,99000.11,25.9,46.2
+Connecticut,Fairfield County,9001072300,5396,1380,1831,66,309551.56,57.4,59.5
+Connecticut,Fairfield County,9001072400,2836,1020,1012,71.5,194960.47,68.7,71.7
+Connecticut,Fairfield County,9001072500,5726,1094,1473,72.5,326198.63,57.0,44.8
+Connecticut,Fairfield County,9001072600,7583,1053,1360,73.7,178082,23.5,31.8
+Connecticut,Fairfield County,9001072700,3726,1264,987,69.6,37519.58,10.1,60.4
+Connecticut,Fairfield County,9001072800,5469,3041,1784,71.9,310323.79,56.7,88.2
+Connecticut,Fairfield County,9001072900,4594,2214,1389,67.5,442871.63,96.4,78.4
+Connecticut,Fairfield County,9001073000,1899,618,672,67.9,7000,3.7,67.9
+Connecticut,Fairfield County,9001073100,5853,1873,2003,69.7,304278.94,52.0,66.2
+Connecticut,Fairfield County,9001073200,2460,718,707,63.9,144813,58.9,57.9
+Connecticut,Fairfield County,9001073300,3351,1475,1252,66.5,509534.33,152.1,81.4
+Connecticut,Fairfield County,9001073400,4113,1497,1809,65.2,179675,43.7,80.4
+Connecticut,Fairfield County,9001073500,3456,1043,2100,57.8,361480.78,104.6,90.9
+Connecticut,Fairfield County,9001073600,2304,647,1471,55.3,26072.54,11.3,91.9
+Connecticut,Fairfield County,9001073700,4824,2000,2086,64.7,120477,25.0,84.7
+Connecticut,Fairfield County,9001073800,2274,513,1600,58.9,632057.45,277.9,92.9
+Connecticut,Fairfield County,9001073900,3395,1140,2006,59.6,714903.64,210.6,92.7
+Connecticut,Fairfield County,9001074000,1919,527,1284,68.8,7835511.36,4083.1,94.4
+Connecticut,Fairfield County,9001074300,4267,2191,1706,59.9,1511763.58,354.3,91.3
+Connecticut,Fairfield County,9001074400,4168,2394,1507,63.7,1258397.93,301.9,93.6
+Connecticut,Fairfield County,9001080100,4843,891,1224,70,,0,43.7
+Connecticut,Fairfield County,9001080200,4298,1047,1257,74.3,298310.64,69.4,53.6
+Connecticut,Fairfield County,9001080400,5956,2807,1381,75.2,1700159.65,285.5,70.3
+Connecticut,Fairfield County,9001080500,3189,44,130,81.1,239696.01,75.2,5.5
+Connecticut,Fairfield County,9001080600,2580,310,390,74.2,737972,286.0,27.1
+Connecticut,Fairfield County,9001080700,1955,162,209,79.5,3630609.81,1857.1,19.0
+Connecticut,Fairfield County,9001080800,4800,226,389,82.5,,0,12.8
+Connecticut,Fairfield County,9001080900,4726,396,626,78.7,42920,9.1,21.6
+Connecticut,Fairfield County,9001081000,4376,404,526,79.7,252639.34,57.7,21.3
+Connecticut,Fairfield County,9001081100,4699,273,400,85.1,190986.5,40.6,14.3
+Connecticut,Fairfield County,9001081200,5231,255,387,84.3,154856,29.6,12.3
+Connecticut,Fairfield County,9001081300,4731,148,195,86.9,41837.16,8.8,7.3
+Connecticut,Fairfield County,9001090100,3315,38,141,85.2,47623.97,14.4,5.4
+Connecticut,Fairfield County,9001090200,7831,148,373,86.1,,0,6.7
+Connecticut,Fairfield County,9001090300,4561,91,296,85.4,2500,0.5,8.5
+Connecticut,Fairfield County,9001090400,6552,468,566,76.1,154748.83,23.6,15.8
+Connecticut,Fairfield County,9001090500,4718,165,307,83.9,600000,127.2,10.0
+Connecticut,Fairfield County,9001090600,3494,57,133,84.8,,0,5.4
+Connecticut,Fairfield County,9001090700,5547,103,252,85.7,,0,6.4
+Connecticut,Fairfield County,9001100100,5574,71,232,82.3,,0,5.4
+Connecticut,Fairfield County,9001100200,6979,107,343,84.8,,0,6.4
+Connecticut,Fairfield County,9001100300,6926,81,344,84,503612.23,72.7,6.1
+Connecticut,Fairfield County,9001105100,4076,21,84,84,727340,178.4,2.6
+Connecticut,Fairfield County,9001105200,3414,25,136,81.9,,0,4.7
+Connecticut,Fairfield County,9001110100,2321,142,389,68.3,428761,184.7,22.9
+Connecticut,Fairfield County,9001110201,4782,174,437,77.8,,0,12.8
+Connecticut,Fairfield County,9001110202,4756,105,228,80.7,,0,7.0
+Connecticut,Fairfield County,9001110301,6174,128,381,82.2,,0,8.2
+Connecticut,Fairfield County,9001110302,2602,49,151,80.6,3220.19,1.2,7.7
+Connecticut,Fairfield County,9001110400,4911,46,148,86.3,,0,4.0
+Connecticut,Fairfield County,9001110500,5928,91,219,85.6,,0,5.2
+Connecticut,Fairfield County,9001110600,8085,130,400,82.9,,0,6.6
+Connecticut,Fairfield County,9001200100,3606,104,462,76.5,,0,15.7
+Connecticut,Fairfield County,9001200200,4908,111,445,76,549824,112.0,11.3
+Connecticut,Fairfield County,9001200301,4852,52,290,82.7,24108.8,5.0,7.0
+Connecticut,Fairfield County,9001200302,5218,48,222,85.2,,0,5.2
+Connecticut,Fairfield County,9001205100,4000,40,190,78.8,,0,5.8
+Connecticut,Fairfield County,9001205200,7054,48,289,83,,0,4.8
+Connecticut,Fairfield County,9001205300,5398,73,231,80.2,1395823.69,258.6,5.6
+Connecticut,Fairfield County,9001210100,5986,345,2716,71.3,2847461.16,475.7,51.1
+Connecticut,Fairfield County,9001210200,6578,436,3085,66,376750,57.3,53.5
+Connecticut,Fairfield County,9001210300,5305,365,1462,72.2,,0,34.4
+Connecticut,Fairfield County,9001210400,8419,582,1943,78.8,287554.71,34.2,30.0
+Connecticut,Fairfield County,9001210500,7033,292,920,79.4,663734.24,94.4,17.2
+Connecticut,Fairfield County,9001210600,6173,439,2018,73.6,518241.5,84.0,39.8
+Connecticut,Fairfield County,9001210701,5470,359,2789,62.9,926570.89,169.4,57.6
+Connecticut,Fairfield County,9001210702,4478,353,1734,71.7,269000,60.1,46.6
+Connecticut,Fairfield County,9001210800,5623,398,630,84.7,141483.1,25.2,18.3
+Connecticut,Fairfield County,9001210900,5713,250,465,81.9,,0,12.5
+Connecticut,Fairfield County,9001211000,4034,216,554,85.7,,0,19.1
+Connecticut,Fairfield County,9001211100,1375,364,539,80,,0,65.7
+Connecticut,Fairfield County,9001211200,6046,348,712,82,43800,7.2,17.5
+Connecticut,Fairfield County,9001211300,3635,143,207,87,87962.82,24.2,9.6
+Connecticut,Fairfield County,9001211400,5025,140,411,80.3,,0,11.0
+Connecticut,Fairfield County,9001220100,5193,55,301,80.4,,0,6.9
+Connecticut,Fairfield County,9001220200,4893,40,172,83.6,854000,174.5,4.3
+Connecticut,Fairfield County,9001220300,3795,47,138,84.4,,0,4.9
+Connecticut,Fairfield County,9001230100,7061,31,242,81.8,,0,3.9
+Connecticut,Fairfield County,9001230200,1941,18,98,82.3,,0,6.0
+Connecticut,Fairfield County,9001230300,3441,16,112,86,,0,3.7
+Connecticut,Fairfield County,9001230400,5651,40,206,84.8,,0,4.4
+Connecticut,Fairfield County,9001230501,4329,64,124,83.6,,0,4.3
+Connecticut,Fairfield County,9001230502,5137,264,251,85.2,1027600,200.0,10.0
+Connecticut,Fairfield County,9001240100,4599,32,126,83.8,,0,3.4
+Connecticut,Fairfield County,9001240200,4559,28,111,86.4,,0,3.0
+Connecticut,Fairfield County,9001245100,2870,17,108,88.6,,0,4.4
+Connecticut,Fairfield County,9001245200,4397,23,163,85.8,,0,4.2
+Connecticut,Fairfield County,9001245300,4974,57,229,83.1,,0,5.7
+Connecticut,Fairfield County,9001245400,3311,26,99,85.5,,0,3.8
+Connecticut,Fairfield County,9001245500,3099,19,96,83.6,,0,3.7
+Connecticut,Fairfield County,9001245600,5987,32,246,86.8,,0,4.6
+Connecticut,Fairfield County,9001257100,3581,12,76,89.9,,0,2.5
+Connecticut,Fairfield County,9001257200,3722,1269,1485,56.3,83627.68,22.5,74.0
+Connecticut,Hartford County,9003330100,2114,9,12,87.2,,0,1.0
+Connecticut,Hartford County,9003400100,7195,55,231,84.8,,0,4.0
+Connecticut,Hartford County,9003400200,5769,46,176,88.3,,0,3.8
+Connecticut,Hartford County,9003400300,6902,27,238,88,1534630,222.3,3.8
+Connecticut,Hartford County,9003405100,3171,107,299,82.7,94037.45,29.7,12.8
+Connecticut,Hartford County,9003405200,4447,81,221,80.3,72777.27,16.4,6.8
+Connecticut,Hartford County,9003405300,6140,159,349,84.7,16870,2.7,8.3
+Connecticut,Hartford County,9003405401,3325,76,178,84.4,100501.08,30.2,7.6
+Connecticut,Hartford County,9003405402,3982,201,478,74.1,5300,1.3,17.1
+Connecticut,Hartford County,9003405500,5206,209,667,77.9,272145.22,52.3,16.8
+Connecticut,Hartford County,9003405600,7222,293,1007,73.7,295113.41,40.9,18.0
+Connecticut,Hartford County,9003405700,2186,105,285,69.6,613989.46,280.9,17.8
+Connecticut,Hartford County,9003405800,7388,164,321,82.4,197520.35,26.7,6.6
+Connecticut,Hartford County,9003405900,4636,122,243,84.4,76672.96,16.5,7.9
+Connecticut,Hartford County,9003406001,4054,203,762,77.1,249399.92,61.5,23.8
+Connecticut,Hartford County,9003406002,4810,89,151,85.8,198137.08,41.2,5.0
+Connecticut,Hartford County,9003406100,3910,226,868,71.8,6250478.31,1598.6,28.0
+Connecticut,Hartford County,9003410101,5246,27,151,85.2,,0,3.4
+Connecticut,Hartford County,9003410102,4055,28,95,85,549339.54,135.5,3.0
+Connecticut,Hartford County,9003415300,2282,375,1148,64.5,75272.39,33.0,66.7
+Connecticut,Hartford County,9003415400,6289,864,2544,73.9,1338062.24,212.8,54.2
+Connecticut,Hartford County,9003415500,2930,406,1491,66.1,46466.54,15.9,64.7
+Connecticut,Hartford County,9003415600,4215,513,1947,72.3,778162.19,184.6,58.4
+Connecticut,Hartford County,9003415700,3266,412,1087,65,86605.52,26.5,45.9
+Connecticut,Hartford County,9003415800,2473,336,766,69.1,719532.14,291.0,44.6
+Connecticut,Hartford County,9003415900,1788,99,800,54.9,1735699.67,970.7,50.3
+Connecticut,Hartford County,9003416000,4516,288,1407,64,212081.63,47.0,37.5
+Connecticut,Hartford County,9003416100,4809,462,2837,64.9,588424.65,122.4,68.6
+Connecticut,Hartford County,9003416200,3102,466,1884,67.6,892102.46,287.6,75.8
+Connecticut,Hartford County,9003416300,3737,504,1545,77,134480.35,36.0,54.8
+Connecticut,Hartford County,9003416400,3313,235,538,83.8,324595.81,98.0,23.3
+Connecticut,Hartford County,9003416500,4703,531,1684,72.5,1041696.38,221.5,47.1
+Connecticut,Hartford County,9003416600,2937,323,1495,72.1,726605.55,247.4,61.9
+Connecticut,Hartford County,9003416700,6561,709,2333,80.4,418384.82,63.8,46.4
+Connecticut,Hartford County,9003416800,3019,287,669,73.2,35687.18,11.8,31.7
+Connecticut,Hartford County,9003417100,1886,207,1140,67.9,8209206.05,4352.7,71.4
+Connecticut,Hartford County,9003417200,1822,164,386,66.4,140292.44,77.0,30.2
+Connecticut,Hartford County,9003417300,2150,252,143,68.2,15000,7.0,18.4
+Connecticut,Hartford County,9003417400,2954,301,347,69.2,101211.53,34.3,21.9
+Connecticut,Hartford County,9003417500,4454,248,743,79.7,106218,23.8,22.2
+Connecticut,Hartford County,9003420400,2839,41,81,86.1,,0,4.3
+Connecticut,Hartford County,9003420500,5442,216,514,75.4,,0,13.4
+Connecticut,Hartford County,9003420600,5880,175,378,83,1008009.89,171.4,9.4
+Connecticut,Hartford County,9003420700,3555,74,122,83.7,,0,5.5
+Connecticut,Hartford County,9003430100,4103,35,148,79.1,605000,147.5,4.5
+Connecticut,Hartford County,9003430201,3388,51,135,82.2,,0,5.5
+Connecticut,Hartford County,9003430202,4709,30,133,88.9,,0,3.5
+Connecticut,Hartford County,9003430203,4212,42,83,89.6,,0,3.0
+Connecticut,Hartford County,9003430301,3599,45,90,86.5,5080,1.4,3.8
+Connecticut,Hartford County,9003430302,2755,18,82,87.5,,0,3.6
+Connecticut,Hartford County,9003430400,5049,60,159,88.5,,0,4.3
+Connecticut,Hartford County,9003430500,6547,83,192,84.2,,0,4.2
+Connecticut,Hartford County,9003430601,5202,161,296,82.3,,0,8.8
+Connecticut,Hartford County,9003430602,3505,42,156,82.9,,0,5.6
+Connecticut,Hartford County,9003460100,3325,88,124,88.2,43200,13.0,6.4
+Connecticut,Hartford County,9003460202,4119,106,186,82.8,,0,7.1
+Connecticut,Hartford County,9003460203,3018,82,109,81.5,,0,6.3
+Connecticut,Hartford County,9003460204,5941,111,210,85.8,,0,5.4
+Connecticut,Hartford County,9003460301,4982,127,191,84.8,681200,136.7,6.4
+Connecticut,Hartford County,9003460302,4033,64,147,83.4,496832.78,123.2,5.2
+Connecticut,Hartford County,9003462101,5833,52,190,89,,0,4.1
+Connecticut,Hartford County,9003462102,4239,45,150,88.6,,0,4.6
+Connecticut,Hartford County,9003462201,5256,86,179,86.8,,0,5.0
+Connecticut,Hartford County,9003462202,2692,70,93,88.4,,0,6.1
+Connecticut,Hartford County,9003464101,5285,23,119,87.9,,0,2.7
+Connecticut,Hartford County,9003464102,5007,59,146,82.9,1154186.19,230.5,4.1
+Connecticut,Hartford County,9003466101,4200,51,127,88.2,,0,4.2
+Connecticut,Hartford County,9003466102,4978,53,153,85.9,,0,4.1
+Connecticut,Hartford County,9003466201,2318,102,76,84.7,1456362.99,628.3,7.7
+Connecticut,Hartford County,9003466202,4732,23,128,90.7,,0,3.2
+Connecticut,Hartford County,9003466300,4866,60,158,88.4,,0,4.5
+Connecticut,Hartford County,9003466400,2417,80,95,82.1,,0,7.2
+Connecticut,Hartford County,9003468101,7468,87,126,86.5,,0,2.9
+Connecticut,Hartford County,9003468102,3814,29,70,86.8,899500,235.8,2.6
+Connecticut,Hartford County,9003470100,5148,107,171,84.9,886794,172.3,5.4
+Connecticut,Hartford County,9003471100,3635,2971,218,74.7,23853.27,6.6,87.7
+Connecticut,Hartford County,9003471200,3347,2578,216,75.1,,0,83.5
+Connecticut,Hartford County,9003471300,4577,2358,243,79.3,14215,3.1,56.8
+Connecticut,Hartford County,9003471400,5515,1639,255,84.6,,0,34.3
+Connecticut,Hartford County,9003471500,3412,1972,217,78.5,7200,2.1,64.2
+Connecticut,Hartford County,9003473100,6246,2880,606,81.4,,0,55.8
+Connecticut,Hartford County,9003473400,1854,317,144,77.3,2465069.53,1329.6,24.9
+Connecticut,Hartford County,9003473501,4400,925,268,85.6,,0,27.1
+Connecticut,Hartford County,9003473502,3241,662,224,82.5,,0,27.3
+Connecticut,Hartford County,9003473601,3320,545,180,86.8,,0,21.8
+Connecticut,Hartford County,9003473602,2260,482,183,75.1,,0,29.4
+Connecticut,Hartford County,9003473700,5865,2643,581,78.3,,0,55.0
+Connecticut,Hartford County,9003473800,1858,1194,256,74.5,5102.98,2.7,78.0
+Connecticut,Hartford County,9003476100,4570,314,263,79.4,422915.64,92.5,12.6
+Connecticut,Hartford County,9003476200,2814,62,90,85.5,,0,5.4
+Connecticut,Hartford County,9003476300,5114,199,223,81.9,,0,8.3
+Connecticut,Hartford County,9003477101,4259,43,63,85.2,1444592.45,339.2,2.5
+Connecticut,Hartford County,9003477102,8521,1104,763,84.4,750000,88.0,21.9
+Connecticut,Hartford County,9003477200,2955,33,60,83.5,,0,3.1
+Connecticut,Hartford County,9003480300,2244,60,97,80.4,,0,7.0
+Connecticut,Hartford County,9003480400,3730,81,125,86.4,,0,5.5
+Connecticut,Hartford County,9003480500,3253,105,157,86.7,,0,8.1
+Connecticut,Hartford County,9003480600,4955,440,772,73.6,1266300,255.6,24.5
+Connecticut,Hartford County,9003480700,2210,63,139,79.2,,0,9.1
+Connecticut,Hartford County,9003480800,4425,111,138,82.1,,0,5.6
+Connecticut,Hartford County,9003480900,2246,65,81,83.6,,0,6.5
+Connecticut,Hartford County,9003481000,3644,57,81,87,,0,3.8
+Connecticut,Hartford County,9003481100,3855,61,97,85.6,,0,4.1
+Connecticut,Hartford County,9003481200,3769,111,133,84.1,,0,6.5
+Connecticut,Hartford County,9003481300,3032,37,83,87.1,,0,4.0
+Connecticut,Hartford County,9003484100,5527,300,258,78.3,,0,10.1
+Connecticut,Hartford County,9003484200,5635,442,383,84.3,1081000,191.8,14.6
+Connecticut,Hartford County,9003487100,6781,221,316,85.8,,0,7.9
+Connecticut,Hartford County,9003487201,4567,104,151,88.7,,0,5.6
+Connecticut,Hartford County,9003487202,3659,105,91,89.6,,0,5.4
+Connecticut,Hartford County,9003487300,1595,58,89,82.9,,0,9.2
+Connecticut,Hartford County,9003487400,2317,119,104,86.9,,0,9.6
+Connecticut,Hartford County,9003487500,6790,334,349,82.6,,0,10.1
+Connecticut,Hartford County,9003490100,5316,253,414,78.8,700000,131.7,12.5
+Connecticut,Hartford County,9003490302,8249,243,364,80.3,,0,7.4
+Connecticut,Hartford County,9003492100,3319,65,173,83.5,,0,7.2
+Connecticut,Hartford County,9003492200,4163,140,497,82.5,2289226,549.9,15.3
+Connecticut,Hartford County,9003492300,5815,313,900,78.3,,0,20.9
+Connecticut,Hartford County,9003492400,2967,70,141,85.4,,0,7.1
+Connecticut,Hartford County,9003492500,3433,21,121,88.6,,0,4.1
+Connecticut,Hartford County,9003492600,6971,129,353,85.5,,0,6.9
+Connecticut,Hartford County,9003494100,6048,290,539,82.8,,0,13.7
+Connecticut,Hartford County,9003494201,4822,169,317,83.2,,0,10.1
+Connecticut,Hartford County,9003494202,2815,103,164,86.3,,0,9.5
+Connecticut,Hartford County,9003494300,4140,80,301,83.6,,0,9.2
+Connecticut,Hartford County,9003494400,4758,95,353,86.1,5000,1.1,9.4
+Connecticut,Hartford County,9003494500,4497,155,380,81.8,,0,11.9
+Connecticut,Hartford County,9003494600,3482,104,254,84.6,770542,221.3,10.3
+Connecticut,Hartford County,9003496100,2691,520,837,75.7,7500,2.8,50.4
+Connecticut,Hartford County,9003496200,4592,167,482,84.5,121273.74,26.4,14.1
+Connecticut,Hartford County,9003496300,3565,172,459,83.8,,0,17.7
+Connecticut,Hartford County,9003496400,2954,88,149,89.8,,0,8.0
+Connecticut,Hartford County,9003496500,2700,58,75,87.8,37010,13.7,4.9
+Connecticut,Hartford County,9003496600,2741,86,107,90.8,,0,7.0
+Connecticut,Hartford County,9003496700,3979,443,947,79.1,24497,6.2,34.9
+Connecticut,Hartford County,9003496800,3523,441,886,74.8,190000,53.9,37.7
+Connecticut,Hartford County,9003496900,6332,499,881,75.4,6459784.94,1020.2,21.8
+Connecticut,Hartford County,9003497000,4342,94,184,89.9,80994.39,18.7,6.4
+Connecticut,Hartford County,9003497100,4070,240,284,73.7,,0,12.9
+Connecticut,Hartford County,9003497200,2415,134,132,87,,0,11.0
+Connecticut,Hartford County,9003497300,5207,330,271,83.7,,0,11.5
+Connecticut,Hartford County,9003497400,3834,67,146,87.9,10000,2.6,5.6
+Connecticut,Hartford County,9003497500,3841,149,169,86.6,,0,8.3
+Connecticut,Hartford County,9003497600,2342,51,79,86.8,150539.74,64.3,5.6
+Connecticut,Hartford County,9003497700,4140,85,104,88.4,,0,4.6
+Connecticut,Hartford County,9003500100,4099,675,2976,65,707715.34,172.7,89.1
+Connecticut,Hartford County,9003500200,2335,479,1497,58.5,381699.9,163.5,84.6
+Connecticut,Hartford County,9003500300,2343,421,1523,65.4,5934890.78,2533.0,83.0
+Connecticut,Hartford County,9003500400,1687,491,991,70.8,482769.5,286.2,87.8
+Connecticut,Hartford County,9003500500,1477,322,560,63.8,2199496.42,1489.2,59.7
+Connecticut,Hartford County,9003500900,2124,793,1274,69.9,964416.53,454.1,97.3
+Connecticut,Hartford County,9003501200,2369,1721,548,62.7,974221.04,411.2,95.8
+Connecticut,Hartford County,9003501300,1735,1049,632,64.1,185312.37,106.8,96.9
+Connecticut,Hartford County,9003501400,2641,2163,406,50.1,1043006.36,394.9,97.3
+Connecticut,Hartford County,9003501500,3550,2807,579,55.9,1662832.14,468.4,95.4
+Connecticut,Hartford County,9003501700,1318,573,692,67.8,420411.45,319.0,96.0
+Connecticut,Hartford County,9003501800,2863,1417,1325,63.9,458522.44,160.2,95.8
+Connecticut,Hartford County,9003502100,1852,281,273,76.1,29879747.53,16133.8,29.9
+Connecticut,Hartford County,9003502300,5998,871,3011,75.2,1184656,197.5,64.7
+Connecticut,Hartford County,9003502400,6055,855,3625,66.9,1695165.78,280.0,74.0
+Connecticut,Hartford County,9003502500,1828,238,1016,58.3,928774.09,508.1,68.6
+Connecticut,Hartford County,9003502600,3838,770,2345,66.7,544283,141.8,81.2
+Connecticut,Hartford County,9003502700,5240,651,2421,66.1,819234.13,156.3,58.6
+Connecticut,Hartford County,9003502800,3283,440,2586,63.8,795429.25,242.3,92.2
+Connecticut,Hartford County,9003502900,2938,556,1775,67.8,710451.75,241.8,79.3
+Connecticut,Hartford County,9003503000,3255,602,2337,69,1757719.12,540.0,90.3
+Connecticut,Hartford County,9003503100,4478,1787,1317,69.1,1049088.89,234.3,69.3
+Connecticut,Hartford County,9003503300,2390,1305,885,47.4,1049002.57,438.9,91.6
+Connecticut,Hartford County,9003503500,1622,1193,367,41.1,724087.07,446.4,96.2
+Connecticut,Hartford County,9003503700,2651,2373,180,58.2,3661984.57,1381.4,96.3
+Connecticut,Hartford County,9003503800,3508,774,547,59.6,68251,19.5,37.7
+Connecticut,Hartford County,9003503900,5203,4739,230,73,2528339.66,485.9,95.5
+Connecticut,Hartford County,9003504000,3413,3133,127,67.5,2216742.88,649.5,95.5
+Connecticut,Hartford County,9003504100,1855,378,1121,58.2,553253.6,298.2,80.8
+Connecticut,Hartford County,9003504200,5123,1500,1684,68.9,587591.07,114.7,62.2
+Connecticut,Hartford County,9003504300,2946,377,1765,64.4,197318,67.0,72.7
+Connecticut,Hartford County,9003504500,3701,636,2649,68.4,841968.09,227.5,88.8
+Connecticut,Hartford County,9003504800,4560,815,2582,73.4,1034395.36,226.8,74.5
+Connecticut,Hartford County,9003504900,4548,758,3193,70.5,944555.3,207.7,86.9
+Connecticut,Hartford County,9003510100,2232,536,524,73.4,,0,47.5
+Connecticut,Hartford County,9003510200,2502,655,728,72.8,201740.06,80.6,55.3
+Connecticut,Hartford County,9003510300,4310,1602,1430,72.4,63473.1,14.7,70.3
+Connecticut,Hartford County,9003510400,5659,2050,2184,65.6,1003854.92,177.4,74.8
+Connecticut,Hartford County,9003510500,3458,705,799,71.3,,0,43.5
+Connecticut,Hartford County,9003510600,5007,1596,1720,70.9,35319.19,7.1,66.2
+Connecticut,Hartford County,9003510700,4961,1031,1136,77.9,196434,39.6,43.7
+Connecticut,Hartford County,9003510800,3143,568,661,75.1,36319.6,11.6,39.1
+Connecticut,Hartford County,9003510900,3680,413,603,84.7,,0,27.6
+Connecticut,Hartford County,9003511000,3415,413,407,85.8,,0,24.0
+Connecticut,Hartford County,9003511100,3592,394,539,84,,0,26.0
+Connecticut,Hartford County,9003511200,3363,940,1114,76.4,20267.75,6.0,61.1
+Connecticut,Hartford County,9003511300,3509,1077,1039,63.9,26812.34,7.6,60.3
+Connecticut,Hartford County,9003511400,2421,413,348,82.7,,0,31.4
+Connecticut,Hartford County,9003514101,3659,144,246,86.5,419019.87,114.5,10.7
+Connecticut,Hartford County,9003514102,7398,829,741,66.4,131241.01,17.7,21.2
+Connecticut,Hartford County,9003514200,3076,497,353,72.9,182450.46,59.3,27.6
+Connecticut,Hartford County,9003514300,4291,395,442,80.7,220644.23,51.4,19.5
+Connecticut,Hartford County,9003514400,4768,708,776,70.9,4020026.37,843.1,31.1
+Connecticut,Hartford County,9003514500,4364,393,614,78.9,290305.62,66.5,23.1
+Connecticut,Hartford County,9003514600,5261,778,920,72.9,562359,106.9,32.3
+Connecticut,Hartford County,9003514700,4298,720,810,68.2,1580753.25,367.8,35.6
+Connecticut,Hartford County,9003514800,3485,652,685,70,650860.1,186.8,38.4
+Connecticut,Hartford County,9003514900,2881,123,168,85.8,125715.86,43.6,10.1
+Connecticut,Hartford County,9003515000,2923,110,158,88.7,57518.6,19.7,9.2
+Connecticut,Hartford County,9003515101,2555,201,271,82.2,,0,18.5
+Connecticut,Hartford County,9003515102,5866,914,665,82.1,160146.43,27.3,26.9
+Connecticut,Hartford County,9003515200,3416,138,139,86.3,33035.17,9.7,8.1
+Connecticut,Hartford County,9003520100,5830,115,191,89.3,,0,5.2
+Connecticut,Hartford County,9003520201,3739,68,112,85.8,,0,4.8
+Connecticut,Hartford County,9003520202,4280,46,158,85.3,,0,4.8
+Connecticut,Hartford County,9003520301,4578,243,439,81.7,,0,14.9
+Connecticut,Hartford County,9003520302,3877,76,219,82.5,,0,7.6
+Connecticut,Hartford County,9003520400,7718,65,221,88.2,,0,3.7
+Connecticut,Hartford County,9003520501,4405,28,128,87.4,,0,3.5
+Connecticut,Hartford County,9003524100,6404,71,181,86,280000,43.7,3.9
+Connecticut,Hartford County,9003524200,6144,219,283,83.4,,0,8.2
+Connecticut,Hartford County,9003524300,7291,1420,1103,84.1,,0,34.6
+Connecticut,Hartford County,9003524400,3057,2238,640,64.5,1748394.01,571.9,94.1
+Connecticut,Hartford County,9003524501,2704,583,1069,62.1,611853,226.3,61.1
+Connecticut,Hartford County,9003524502,2158,623,319,77.9,74691,34.6,43.7
+Connecticut,Hartford County,9003524600,3311,1698,721,57.9,1927818.97,582.2,73.1
+Connecticut,Hartford County,9003524700,3624,733,1998,75.4,653386.1,180.3,75.4
+Connecticut,Litchfield County,9005250100,1727,13,26,83.2,,0,2.3
+Connecticut,Litchfield County,9005253100,3511,105,244,82.7,,0,9.9
+Connecticut,Litchfield County,9005253200,7429,126,462,81.4,,0,7.9
+Connecticut,Litchfield County,9005253300,2215,45,179,83.8,,0,10.1
+Connecticut,Litchfield County,9005253400,6308,71,288,88.8,,0,5.7
+Connecticut,Litchfield County,9005253500,6114,33,255,82.7,,0,4.7
+Connecticut,Litchfield County,9005253600,2565,72,265,80,550000,214.4,13.1
+Connecticut,Litchfield County,9005260200,3315,39,195,76.9,1198356.22,361.5,7.1
+Connecticut,Litchfield County,9005261100,3741,52,107,83.1,1377122.64,368.1,4.3
+Connecticut,Litchfield County,9005262100,2782,44,56,82.8,575000,206.7,3.6
+Connecticut,Litchfield County,9005263200,1420,2,34,88.6,,0,2.5
+Connecticut,Litchfield County,9005265100,1461,8,31,86,,0,2.7
+Connecticut,Litchfield County,9005266100,2979,34,94,87.8,600000,201.4,4.3
+Connecticut,Litchfield County,9005267100,3578,20,142,89.4,,0,4.5
+Connecticut,Litchfield County,9005268100,2262,13,48,88.6,963442.61,425.9,2.7
+Connecticut,Litchfield County,9005290100,3799,10,57,85.1,,0,1.8
+Connecticut,Litchfield County,9005293100,1485,4,17,82.5,20287.5,13.7,1.4
+Connecticut,Litchfield County,9005296100,2976,9,67,89.6,,0,2.6
+Connecticut,Litchfield County,9005298300,2767,3,41,85.6,,0,1.6
+Connecticut,Litchfield County,9005298400,2875,9,39,87.5,500000,173.9,1.7
+Connecticut,Litchfield County,9005300100,2716,20,71,89.1,30000,11.0,3.4
+Connecticut,Litchfield County,9005300400,2074,9,42,84.8,1096924.9,528.9,2.5
+Connecticut,Litchfield County,9005300500,3676,20,60,83.4,291158,79.2,2.2
+Connecticut,Litchfield County,9005303100,2388,11,50,85.2,486447.04,203.7,2.6
+Connecticut,Litchfield County,9005306100,6970,18,124,85.7,853566.12,122.5,2.0
+Connecticut,Litchfield County,9005310100,4406,103,512,75.3,,0,14.0
+Connecticut,Litchfield County,9005310200,2929,102,524,72.8,,0,21.4
+Connecticut,Litchfield County,9005310300,1817,67,419,70.9,1922924.13,1058.3,26.7
+Connecticut,Litchfield County,9005310400,2644,57,75,82.3,,0,5.0
+Connecticut,Litchfield County,9005310500,1806,20,54,84.3,,0,4.1
+Connecticut,Litchfield County,9005310601,3740,78,147,86,,0,6.0
+Connecticut,Litchfield County,9005310602,4605,48,135,86.2,,0,4.0
+Connecticut,Litchfield County,9005310700,4279,44,204,84.7,,0,5.8
+Connecticut,Litchfield County,9005310801,2414,70,222,77.6,,0,12.1
+Connecticut,Litchfield County,9005310803,4826,109,394,74.8,350000,72.5,10.4
+Connecticut,Litchfield County,9005310804,2917,78,507,77.7,,0,20.1
+Connecticut,Litchfield County,9005320100,6345,87,435,82.3,1051572.84,165.7,8.2
+Connecticut,Litchfield County,9005320200,4897,49,148,84.4,,0,4.0
+Connecticut,Litchfield County,9005342100,3607,16,61,87.9,1470021.75,407.5,2.1
+Connecticut,Litchfield County,9005349100,5045,18,130,82.4,,0,2.9
+Connecticut,Litchfield County,9005349200,2842,9,72,79,696756.5,245.2,2.9
+Connecticut,Litchfield County,9005360100,5357,55,151,82.2,840000,156.8,3.8
+Connecticut,Litchfield County,9005360200,7765,78,229,83.8,,0,4.0
+Connecticut,Litchfield County,9005360300,3396,77,245,77,,0,9.5
+Connecticut,Litchfield County,9005360400,5996,82,213,78.3,,0,4.9
+Connecticut,Litchfield County,9005362101,4159,23,135,82.1,400000,96.2,3.8
+Connecticut,Litchfield County,9005362102,5816,32,110,83.1,,0,2.4
+Connecticut,Litchfield County,9005425300,4107,28,95,81,,0,3.0
+Connecticut,Litchfield County,9005425400,4818,34,167,80.3,,0,4.2
+Connecticut,Litchfield County,9005425500,3318,32,108,82.7,1465000,441.5,4.2
+Connecticut,Litchfield County,9005425600,2943,20,49,83.2,1016764.74,345.5,2.3
+Connecticut,Middlesex County,9007541100,2579,533,445,72.5,818755.13,317.5,37.9
+Connecticut,Middlesex County,9007541200,5190,609,352,77.9,70703.58,13.6,18.5
+Connecticut,Middlesex County,9007541300,6207,830,527,74.3,49803,8.0,21.9
+Connecticut,Middlesex County,9007541401,3339,179,147,85.4,25326.73,7.6,9.8
+Connecticut,Middlesex County,9007541402,5479,543,382,76.9,50006.49,9.1,16.9
+Connecticut,Middlesex County,9007541500,3227,264,271,75.2,69547,21.6,16.6
+Connecticut,Middlesex County,9007541600,1540,352,360,71.5,3364784.99,2184.9,46.2
+Connecticut,Middlesex County,9007541700,3740,788,462,75.3,865959.81,231.5,33.4
+Connecticut,Middlesex County,9007542000,4439,425,252,78.1,155749.18,35.1,15.3
+Connecticut,Middlesex County,9007542100,3544,532,300,78.7,216893.79,61.2,23.5
+Connecticut,Middlesex County,9007542200,1638,138,52,88.7,,0,11.6
+Connecticut,Middlesex County,9007550100,5829,67,151,83.8,,0,3.7
+Connecticut,Middlesex County,9007550201,3954,39,111,83.9,142340.32,36.0,3.8
+Connecticut,Middlesex County,9007550202,3176,30,82,80,1220000,384.1,3.5
+Connecticut,Middlesex County,9007560100,5816,60,156,86.6,,0,3.7
+Connecticut,Middlesex County,9007560200,3692,135,154,79.3,500000,135.4,7.8
+Connecticut,Middlesex County,9007570100,4675,296,258,81.1,,0,11.9
+Connecticut,Middlesex County,9007570200,3388,50,150,86.1,,0,5.9
+Connecticut,Middlesex County,9007570300,5942,206,225,86.2,59690.5,10.0,7.3
+Connecticut,Middlesex County,9007580100,4425,55,103,83.7,1585000,358.2,3.6
+Connecticut,Middlesex County,9007585100,7388,32,159,85.8,750000,101.5,2.6
+Connecticut,Middlesex County,9007590100,8346,85,139,89.8,24812.01,3.0,2.7
+Connecticut,Middlesex County,9007595101,3697,17,99,89.7,762710,206.3,3.1
+Connecticut,Middlesex County,9007595102,5429,33,111,89,770769.52,142.0,2.7
+Connecticut,Middlesex County,9007600100,3994,35,74,84.9,62746.86,15.7,2.7
+Connecticut,Middlesex County,9007610100,2149,16,180,76,,0,9.1
+Connecticut,Middlesex County,9007610200,3513,15,166,88,514046.98,146.3,5.2
+Connecticut,Middlesex County,9007610300,4212,25,178,83.6,480803,114.2,4.8
+Connecticut,Middlesex County,9007610400,3386,29,137,82.4,,0,4.9
+Connecticut,Middlesex County,9007620100,4629,73,277,80.2,875000,189.0,7.6
+Connecticut,Middlesex County,9007630100,6683,40,183,85.7,1686500,252.4,3.3
+Connecticut,Middlesex County,9007640100,6525,46,141,85.2,,0,2.9
+Connecticut,Middlesex County,9007670100,4848,42,166,89.6,,0,4.3
+Connecticut,Middlesex County,9007670200,5394,54,176,92.1,1358004.85,251.8,4.3
+Connecticut,Middlesex County,9007680100,6938,42,309,86.9,81592.5,11.8,5.1
+Connecticut,Middlesex County,9007680200,6726,541,399,80.8,203671.28,30.3,14.0
+Connecticut,New Haven County,9009120100,6721,319,591,77.5,,0,13.5
+Connecticut,New Haven County,9009120200,6181,572,1239,75.8,656574.41,106.2,29.3
+Connecticut,New Haven County,9009125100,4503,131,365,85.3,,0,11.0
+Connecticut,New Haven County,9009125200,5812,602,993,69.7,1548745.88,266.5,27.4
+Connecticut,New Haven County,9009125300,5540,811,1252,70.8,,0,37.2
+Connecticut,New Haven County,9009125400,3394,496,602,72.4,,0,32.4
+Connecticut,New Haven County,9009130101,4911,127,280,79.2,817000,166.4,8.3
+Connecticut,New Haven County,9009130102,3113,129,219,76.2,,0,11.2
+Connecticut,New Haven County,9009130200,8516,139,565,80.6,,0,8.3
+Connecticut,New Haven County,9009140100,2426,465,276,76.7,46441343.04,19143.2,30.5
+Connecticut,New Haven County,9009140200,1518,391,845,67.3,3429851.95,2259.5,81.4
+Connecticut,New Haven County,9009140300,2737,949,1373,62.4,1981947.46,724.1,84.8
+Connecticut,New Haven County,9009140400,3329,1054,1669,65.9,7500,2.3,81.8
+Connecticut,New Haven County,9009140500,3687,1339,2109,63.1,1169390.35,317.2,93.5
+Connecticut,New Haven County,9009140600,4745,2150,2163,61.1,715042.22,150.7,90.9
+Connecticut,New Haven County,9009140700,3979,1803,864,66.4,987738.98,248.2,67.0
+Connecticut,New Haven County,9009140800,3964,2517,890,61.5,118031.21,29.8,85.9
+Connecticut,New Haven County,9009140900,4476,2455,717,58.6,1335908.18,298.5,70.9
+Connecticut,New Haven County,9009141000,3729,548,238,74.6,300448.1,80.6,21.1
+Connecticut,New Haven County,9009141100,2777,990,272,77.9,0,0.0,45.4
+Connecticut,New Haven County,9009141200,4426,2522,683,69.4,502882.03,113.6,72.4
+Connecticut,New Haven County,9009141300,5913,1928,827,66.5,489153.66,82.7,46.6
+Connecticut,New Haven County,9009141400,5023,3139,631,65.6,243769.5,48.5,75.1
+Connecticut,New Haven County,9009141500,6873,5820,606,59.5,437086.54,63.6,93.5
+Connecticut,New Haven County,9009141600,5169,3517,753,65.4,3671376.33,710.3,82.6
+Connecticut,New Haven County,9009141800,3892,994,347,80.8,503727.85,129.4,34.5
+Connecticut,New Haven County,9009141900,5063,277,340,84.2,618924.01,122.2,12.2
+Connecticut,New Haven County,9009142000,3396,156,224,78.6,115001,33.9,11.2
+Connecticut,New Haven County,9009142100,1744,539,700,60.5,16926.2,9.7,71.0
+Connecticut,New Haven County,9009142200,1581,120,152,80.2,132759,84.0,17.2
+Connecticut,New Haven County,9009142300,5448,1074,3543,64.1,1700631.57,312.2,84.7
+Connecticut,New Haven County,9009142400,5360,1275,3381,58.7,1732436.15,323.2,86.9
+Connecticut,New Haven County,9009142500,5929,1314,3438,63,1096869.69,185.0,80.1
+Connecticut,New Haven County,9009142601,5926,1987,1864,69.7,,0,65.0
+Connecticut,New Haven County,9009142603,3960,1149,1047,78.1,,0,55.5
+Connecticut,New Haven County,9009142604,2914,680,1130,66.1,17711.85,6.1,62.1
+Connecticut,New Haven County,9009142700,6654,1194,3048,62.6,,0,63.8
+Connecticut,New Haven County,9009142800,4841,190,618,75.9,14821,3.1,16.7
+Connecticut,New Haven County,9009150100,4123,91,184,79,3190118.67,773.7,6.7
+Connecticut,New Haven County,9009150200,3622,82,164,72.4,241862.71,66.8,6.8
+Connecticut,New Haven County,9009150300,3953,133,335,80.1,226850,57.4,11.8
+Connecticut,New Haven County,9009150400,4284,168,331,78,223762.93,52.2,11.6
+Connecticut,New Haven County,9009150500,4308,93,225,81.3,289264.64,67.1,7.4
+Connecticut,New Haven County,9009150600,6407,182,317,84.5,,0,7.8
+Connecticut,New Haven County,9009150700,4361,87,213,86.6,7500,1.7,6.9
+Connecticut,New Haven County,9009150800,3950,91,179,82.1,9460,2.4,6.8
+Connecticut,New Haven County,9009150900,3958,66,140,85.2,717367.84,181.2,5.2
+Connecticut,New Haven County,9009151000,4126,95,166,80.8,161389,39.1,6.3
+Connecticut,New Haven County,9009151100,6579,83,348,82.5,47606.39,7.2,6.6
+Connecticut,New Haven County,9009151200,3088,67,154,85.5,397045.49,128.6,7.2
+Connecticut,New Haven County,9009154100,8070,2617,2027,74.2,563063.28,69.8,57.5
+Connecticut,New Haven County,9009154200,7176,2517,1946,69.5,1018483.9,141.9,62.2
+Connecticut,New Haven County,9009154500,4813,651,1440,70.8,1678039.99,348.6,43.4
+Connecticut,New Haven County,9009154600,4029,700,710,69.3,2296545.74,570.0,35.0
+Connecticut,New Haven County,9009154700,6384,222,332,84.5,276524.48,43.3,8.7
+Connecticut,New Haven County,9009154800,5135,82,277,81.7,316948.42,61.7,7.0
+Connecticut,New Haven County,9009154900,3670,301,466,76.3,169727,46.2,20.9
+Connecticut,New Haven County,9009155000,5290,637,1000,66.1,10000,1.9,30.9
+Connecticut,New Haven County,9009155100,3390,262,510,76.7,500740,147.7,22.8
+Connecticut,New Haven County,9009157100,2603,62,115,79.8,,0,6.8
+Connecticut,New Haven County,9009157200,3837,42,82,85.8,,0,3.2
+Connecticut,New Haven County,9009157300,3310,42,78,86.8,,0,3.6
+Connecticut,New Haven County,9009157400,4206,52,123,84.6,,0,4.2
+Connecticut,New Haven County,9009160100,3443,51,111,87.7,,0,4.7
+Connecticut,New Haven County,9009160200,5547,122,173,84.5,804899.66,145.1,5.3
+Connecticut,New Haven County,9009161100,5563,102,137,83.5,205318,36.9,4.3
+Connecticut,New Haven County,9009165100,3928,781,612,76.6,,0,35.5
+Connecticut,New Haven County,9009165200,2485,105,118,85.2,450890.92,181.4,9.0
+Connecticut,New Haven County,9009165300,2289,81,80,86.5,11500,5.0,7.0
+Connecticut,New Haven County,9009165400,5112,1140,345,82,211929.09,41.5,29.0
+Connecticut,New Haven County,9009165500,4959,3074,826,67.9,4072094.52,821.2,78.6
+Connecticut,New Haven County,9009165600,5569,1593,860,69.1,477920.96,85.8,44.0
+Connecticut,New Haven County,9009165700,4588,1772,572,82.3,129838.62,28.3,51.1
+Connecticut,New Haven County,9009165801,5434,997,416,71.1,31047.69,5.7,26.0
+Connecticut,New Haven County,9009165802,4086,757,298,82.8,20396.11,5.0,25.8
+Connecticut,New Haven County,9009165900,7897,588,374,83.5,19533,2.5,12.2
+Connecticut,New Haven County,9009166001,6887,628,472,76.6,539791.69,78.4,16.0
+Connecticut,New Haven County,9009166002,7726,353,354,81.9,53350,6.9,9.2
+Connecticut,New Haven County,9009167100,7743,251,293,82.9,5517.92,0.7,7.0
+Connecticut,New Haven County,9009167201,4176,135,171,81,4745.63,1.1,7.3
+Connecticut,New Haven County,9009167202,4485,117,187,84.3,700338,156.2,6.8
+Connecticut,New Haven County,9009167300,7689,190,278,81.8,,0,6.1
+Connecticut,New Haven County,9009170100,2022,289,1343,66.5,11360028.58,5618.2,80.7
+Connecticut,New Haven County,9009170200,2505,259,1342,75.6,727439.37,290.4,63.9
+Connecticut,New Haven County,9009170300,2147,236,1195,68.3,,0,66.7
+Connecticut,New Haven County,9009170400,1747,180,433,69.4,,0,35.1
+Connecticut,New Haven County,9009170500,5781,182,584,81.7,5000,0.9,13.3
+Connecticut,New Haven County,9009170600,2518,118,433,79.1,11445,4.5,21.9
+Connecticut,New Haven County,9009170700,2598,234,839,77,,0,41.3
+Connecticut,New Haven County,9009170800,5741,502,1612,71.9,23354.24,4.1,36.8
+Connecticut,New Haven County,9009170900,2006,301,1028,72.5,108544.96,54.1,66.3
+Connecticut,New Haven County,9009171000,1869,267,1007,70.7,512859.41,274.4,68.2
+Connecticut,New Haven County,9009171100,5784,405,1084,78.8,79503.67,13.7,25.7
+Connecticut,New Haven County,9009171200,8018,362,770,83.8,5000,0.6,14.1
+Connecticut,New Haven County,9009171300,3694,251,1221,71,10454,2.8,39.8
+Connecticut,New Haven County,9009171400,2128,270,1039,67.4,247900,116.5,61.5
+Connecticut,New Haven County,9009171500,3656,476,2094,69.7,34912,9.5,70.3
+Connecticut,New Haven County,9009171600,4808,469,1128,81.4,146442.48,30.5,33.2
+Connecticut,New Haven County,9009171700,3846,179,438,85.1,,0,16.0
+Connecticut,New Haven County,9009175100,3244,50,621,81.9,,0,20.7
+Connecticut,New Haven County,9009175200,2315,38,429,77.4,925133,399.6,20.2
+Connecticut,New Haven County,9009175300,4327,63,398,79.8,,0,10.7
+Connecticut,New Haven County,9009175400,4431,97,913,78.8,,0,22.8
+Connecticut,New Haven County,9009175500,7905,126,253,84.6,,0,4.8
+Connecticut,New Haven County,9009175600,5009,44,191,86.1,5700,1.1,4.7
+Connecticut,New Haven County,9009175700,2496,24,123,83.8,,0,5.9
+Connecticut,New Haven County,9009175800,4014,26,143,86.4,1000,0.2,4.2
+Connecticut,New Haven County,9009175900,5043,66,336,82.6,,0,8.0
+Connecticut,New Haven County,9009176000,6351,53,155,86.2,,0,3.3
+Connecticut,New Haven County,9009180100,6811,88,545,80.3,,0,9.3
+Connecticut,New Haven County,9009180200,5545,195,830,70,,0,18.5
+Connecticut,New Haven County,9009180300,2546,74,344,73.4,1382457.5,543.0,16.4
+Connecticut,New Haven County,9009180400,2690,71,280,77.5,,0,13.0
+Connecticut,New Haven County,9009180500,4692,199,593,72.4,,0,16.9
+Connecticut,New Haven County,9009180601,3151,65,208,82,,0,8.7
+Connecticut,New Haven County,9009180602,3822,79,212,85.4,,0,7.6
+Connecticut,New Haven County,9009184100,5083,93,337,74.2,1560258.07,307.0,8.5
+Connecticut,New Haven County,9009184200,4065,169,271,78.3,,0,10.8
+Connecticut,New Haven County,9009184300,4279,74,148,86,918580.4,214.7,5.2
+Connecticut,New Haven County,9009184400,3327,17,70,83.6,,0,2.6
+Connecticut,New Haven County,9009184500,2512,41,42,85.4,,0,3.3
+Connecticut,New Haven County,9009184600,2852,5,57,83,,0,2.2
+Connecticut,New Haven County,9009184700,5908,108,224,80.1,,0,5.6
+Connecticut,New Haven County,9009186100,7309,95,231,84.5,1267000,173.3,4.5
+Connecticut,New Haven County,9009186200,7098,92,190,82.5,,0,4.0
+Connecticut,New Haven County,9009190100,3340,24,167,82.8,1362350,407.9,5.7
+Connecticut,New Haven County,9009190200,3362,26,76,91.4,,0,3.0
+Connecticut,New Haven County,9009190301,6791,55,203,87.1,,0,3.8
+Connecticut,New Haven County,9009190302,5448,20,218,85.6,,0,4.4
+Connecticut,New Haven County,9009190303,3434,35,115,82.9,,0,4.4
+Connecticut,New Haven County,9009194100,5154,21,84,88.5,,0,2.0
+Connecticut,New Haven County,9009194201,7837,45,154,86.2,,0,2.5
+Connecticut,New Haven County,9009194202,5278,34,137,85.7,,0,3.2
+Connecticut,New Haven County,9009341100,6049,87,300,80.6,774020.33,128.0,6.4
+Connecticut,New Haven County,9009343101,5810,1073,651,87.3,40586.23,7.0,29.7
+Connecticut,New Haven County,9009343102,3653,46,135,85.9,270000,73.9,5.0
+Connecticut,New Haven County,9009343200,6249,119,190,83.1,,0,4.9
+Connecticut,New Haven County,9009343300,6809,65,164,86.6,,0,3.4
+Connecticut,New Haven County,9009343400,6740,71,235,85.5,,0,4.5
+Connecticut,New Haven County,9009344100,4856,43,151,85.5,641145.24,132.0,4.0
+Connecticut,New Haven County,9009344200,2719,24,57,86.1,,0,3.0
+Connecticut,New Haven County,9009345100,6979,343,611,72.9,,0,13.7
+Connecticut,New Haven County,9009345201,7065,295,734,76.8,,0,14.6
+Connecticut,New Haven County,9009345202,4229,212,304,82.2,,0,12.2
+Connecticut,New Haven County,9009345300,6455,246,659,78.9,1098002.4,170.1,14.0
+Connecticut,New Haven County,9009345400,7134,331,621,79,,0,13.3
+Connecticut,New Haven County,9009346101,6674,54,248,85,,0,4.5
+Connecticut,New Haven County,9009346102,6009,80,220,82.5,1804652.64,300.3,5.0
+Connecticut,New Haven County,9009347100,5527,123,178,84.3,1180909.5,213.7,5.4
+Connecticut,New Haven County,9009347200,3878,52,134,83.6,,0,4.8
+Connecticut,New Haven County,9009348111,2902,32,77,85.3,,0,3.8
+Connecticut,New Haven County,9009348122,4349,53,139,84.9,,0,4.4
+Connecticut,New Haven County,9009348123,5739,25,173,83.7,,0,3.5
+Connecticut,New Haven County,9009348124,2330,15,47,90.6,1363199,585.1,2.7
+Connecticut,New Haven County,9009348125,4584,31,87,91.6,,0,2.6
+Connecticut,New Haven County,9009350100,4852,939,2636,74,5362579.69,1105.2,73.7
+Connecticut,New Haven County,9009350200,3355,1176,1653,59.1,855621.91,255.0,84.3
+Connecticut,New Haven County,9009350300,1969,766,939,58.7,1578477.99,801.7,86.6
+Connecticut,New Haven County,9009350400,2487,811,1303,61.5,401806.4,161.6,85.0
+Connecticut,New Haven County,9009350500,2498,245,1601,57.9,1023596.18,409.8,73.9
+Connecticut,New Haven County,9009350800,5998,1386,2600,61.3,913987.48,152.4,66.5
+Connecticut,New Haven County,9009350900,1987,512,450,79.5,,0,48.4
+Connecticut,New Haven County,9009351000,3678,793,1302,78.3,256218.7,69.7,57.0
+Connecticut,New Haven County,9009351100,3928,1348,1019,69.6,802755.65,204.4,60.3
+Connecticut,New Haven County,9009351200,3862,1096,1813,68.8,225355.49,58.4,75.3
+Connecticut,New Haven County,9009351300,5535,858,1724,74.7,249788.44,45.1,46.6
+Connecticut,New Haven County,9009351400,4352,656,2172,69.1,1499976.53,344.7,65.0
+Connecticut,New Haven County,9009351500,4915,597,1413,70.4,422710.14,86.0,40.9
+Connecticut,New Haven County,9009351601,3281,305,712,77.1,,0,31.0
+Connecticut,New Haven County,9009351602,6221,404,712,75.1,232815.02,37.4,17.9
+Connecticut,New Haven County,9009351700,2717,563,1181,61.3,,0,64.2
+Connecticut,New Haven County,9009351800,4252,464,650,74,0,0.0,26.2
+Connecticut,New Haven County,9009351900,2456,320,283,85.1,290128.74,118.1,24.6
+Connecticut,New Haven County,9009352000,4920,423,683,78.9,0,0.0,22.5
+Connecticut,New Haven County,9009352100,4253,612,942,72.2,,0,36.5
+Connecticut,New Haven County,9009352200,2689,664,1326,68.8,200000,74.4,74.0
+Connecticut,New Haven County,9009352300,2815,669,853,70.9,33750,12.0,54.1
+Connecticut,New Haven County,9009352400,3437,720,1163,69.7,,0,54.8
+Connecticut,New Haven County,9009352500,2731,446,604,70.2,,0,38.4
+Connecticut,New Haven County,9009352600,5395,757,1065,72.8,,0,33.8
+Connecticut,New Haven County,9009352701,3386,303,638,71.5,0,0.0,27.8
+Connecticut,New Haven County,9009352702,5852,786,1198,80,,0,33.9
+Connecticut,New Haven County,9009352800,6545,1035,1811,66.8,32247.3,4.9,43.5
+Connecticut,New Haven County,9009361100,6503,107,217,80.6,1149371.04,176.7,5.0
+Connecticut,New Haven County,9009361200,5524,87,218,82.6,,0,5.5
+Connecticut,New Haven County,9009361300,4653,67,176,79.8,,0,5.2
+Connecticut,New Haven County,9009361401,4933,526,524,78.6,260581.26,52.8,21.3
+Connecticut,New Haven County,9009361402,3367,270,319,69.6,60456.76,18.0,17.5
+Connecticut,New Haven County,9009361500,7607,2216,1447,69.7,27456,3.6,48.2
+Connecticut,New London County,9011650100,2406,3,41,89.6,,0,1.8
+Connecticut,New London County,9011660101,3356,13,68,90,,0,2.4
+Connecticut,New London County,9011660102,4247,22,116,90.7,,0,3.2
+Connecticut,New London County,9011690300,6280,1232,2379,72.5,1381695.75,220.0,57.5
+Connecticut,New London County,9011690400,2055,451,946,67.1,537400.88,261.5,68.0
+Connecticut,New London County,9011690500,2827,622,807,67.2,15032547.16,5317.5,50.5
+Connecticut,New London County,9011690700,1295,288,405,65,610343.33,471.3,53.5
+Connecticut,New London County,9011690800,3345,502,807,74.9,812785.2,243.0,39.1
+Connecticut,New London County,9011690900,5156,444,503,74.5,267807.64,51.9,18.4
+Connecticut,New London County,9011693300,5752,75,198,82.4,,0,4.7
+Connecticut,New London County,9011693400,4099,141,296,81.7,627000,153.0,10.7
+Connecticut,New London County,9011693500,3528,59,108,84.8,,0,4.7
+Connecticut,New London County,9011693600,2805,62,116,80.8,,0,6.3
+Connecticut,New London County,9011693700,3333,106,204,83.7,,0,9.3
+Connecticut,New London County,9011695201,5266,121,269,87.5,,0,7.4
+Connecticut,New London County,9011695202,6203,160,301,82.4,,0,7.4
+Connecticut,New London County,9011696100,4917,395,419,74,201707.85,41.0,16.6
+Connecticut,New London County,9011696200,4813,144,231,81.3,564901.1,117.4,7.8
+Connecticut,New London County,9011696300,2847,54,148,81.2,125068.22,43.9,7.1
+Connecticut,New London County,9011696400,6052,857,1288,72.7,917171.9,151.5,35.4
+Connecticut,New London County,9011696500,3134,344,281,69.3,50750,16.2,19.9
+Connecticut,New London County,9011696600,4073,235,347,79.6,177476.41,43.6,14.3
+Connecticut,New London County,9011696700,5915,663,867,76.2,1696812.77,286.9,25.9
+Connecticut,New London County,9011696800,3974,707,894,66,9699952.37,2440.9,40.3
+Connecticut,New London County,9011697000,4768,463,608,76.4,1105976.51,232.0,22.5
+Connecticut,New London County,9011700100,4726,65,115,87,1771380.55,374.8,3.8
+Connecticut,New London County,9011701100,7691,262,465,79.6,800060.58,104.0,9.5
+Connecticut,New London County,9011701200,7356,194,367,84,7500,1.0,7.6
+Connecticut,New London County,9011702100,4496,156,179,81.9,,0,7.5
+Connecticut,New London County,9011702300,2163,146,165,81.6,,0,14.4
+Connecticut,New London County,9011702400,3527,264,319,79.7,,0,16.5
+Connecticut,New London County,9011702500,4748,600,1050,73.7,23000,4.8,34.8
+Connecticut,New London County,9011702600,2114,51,151,89,,0,9.6
+Connecticut,New London County,9011702700,4946,302,349,71.6,,0,13.2
+Connecticut,New London County,9011702800,4079,291,410,76.6,1463793.38,358.9,17.2
+Connecticut,New London County,9011702900,2473,15,63,85.2,,0,3.2
+Connecticut,New London County,9011703000,3919,35,87,84.6,,0,3.1
+Connecticut,New London County,9011705101,4294,29,93,80.6,350916.39,81.7,2.8
+Connecticut,New London County,9011705102,4343,46,113,77.4,,0,3.7
+Connecticut,New London County,9011705200,3484,31,54,83,768285.91,220.5,2.4
+Connecticut,New London County,9011705300,3540,24,105,85.9,,0,3.6
+Connecticut,New London County,9011705400,2884,26,71,83.8,,0,3.4
+Connecticut,New London County,9011707100,5297,52,128,83.2,365000,68.9,3.4
+Connecticut,New London County,9011708100,2603,12,41,85.6,,0,2.0
+Connecticut,New London County,9011709100,6322,44,161,81.3,,0,3.2
+Connecticut,New London County,9011709200,5629,146,235,74.6,4051845.91,719.8,6.8
+Connecticut,New London County,9011710100,4338,34,87,84.3,535754.74,123.5,2.8
+Connecticut,New London County,9011711100,2984,54,138,79.3,2568800,860.9,6.4
+Connecticut,New London County,9011712100,1922,11,43,84.9,855042.97,444.9,2.8
+Connecticut,New London County,9011713100,2627,29,91,80.3,,0,4.6
+Connecticut,New London County,9011714101,3429,81,159,84.9,665000,193.9,7.0
+Connecticut,New London County,9011714103,7534,74,189,84.1,,0,3.5
+Connecticut,New London County,9011714104,5105,85,176,83.3,,0,5.1
+Connecticut,New London County,9011715100,4151,58,105,86.8,367000,88.4,3.9
+Connecticut,New London County,9011716101,6109,832,598,85.8,,0,23.4
+Connecticut,New London County,9011716102,5073,57,173,86.9,,0,4.5
+Connecticut,New London County,9011870100,7308,67,200,82.7,1937156,265.1,3.7
+Connecticut,New London County,9011870200,5557,426,560,70.1,,0,17.7
+Connecticut,New London County,9011870300,6662,675,1968,67.8,202364.3,30.4,39.7
+Connecticut,New London County,9011870501,4470,132,272,74.4,,0,9.0
+Connecticut,New London County,9011870502,3632,653,598,74.9,367000,101.0,34.4
+Connecticut,New London County,9011870701,2156,36,94,90.1,,0,6.0
+Connecticut,New London County,9011870703,1749,12,66,90,,0,4.5
+Connecticut,New London County,9011870704,4072,33,84,87.5,,0,2.9
+Connecticut,New London County,9011980000,2097,185,245,100,,0,20.5
+Connecticut,Tolland County,9013526101,4630,30,106,83.7,,0,2.9
+Connecticut,Tolland County,9013526102,5056,17,118,86.4,750000,148.3,2.7
+Connecticut,Tolland County,9013528100,3303,33,53,84.1,285000,86.3,2.6
+Connecticut,Tolland County,9013529100,4980,47,151,99.7,,0,4.0
+Connecticut,Tolland County,9013530100,2271,67,144,81.5,,0,9.3
+Connecticut,Tolland County,9013530200,6177,610,708,78.8,974137.66,157.7,21.3
+Connecticut,Tolland County,9013530301,5533,409,426,78.5,,0,15.1
+Connecticut,Tolland County,9013530302,5984,151,235,83.6,,0,6.5
+Connecticut,Tolland County,9013530400,3273,201,237,80.4,,0,13.4
+Connecticut,Tolland County,9013530500,3243,58,82,87,,0,4.3
+Connecticut,Tolland County,9013530600,2698,58,75,89.1,,0,4.9
+Connecticut,Tolland County,9013533101,9318,99,207,86.9,1975750,212.0,3.3
+Connecticut,Tolland County,9013533102,5734,62,129,85.4,,0,3.3
+Connecticut,Tolland County,9013535100,9161,152,221,81.6,2848038.77,310.9,4.1
+Connecticut,Tolland County,9013535200,6441,131,185,83.3,,0,4.9
+Connecticut,Tolland County,9013538201,5166,36,96,84.3,,0,2.6
+Connecticut,Tolland County,9013538202,3939,15,85,86.4,3000,0.8,2.5
+Connecticut,Tolland County,9013840100,6041,43,206,76.4,222700,36.9,4.1
+Connecticut,Tolland County,9013850100,5504,55,112,86.2,,0,3.0
+Connecticut,Tolland County,9013850200,6931,63,213,79.1,3890900,561.4,4.0
+Connecticut,Tolland County,9013860100,5485,35,159,85.9,30000,5.5,3.5
+Connecticut,Tolland County,9013881100,4119,80,129,82.8,,0,5.1
+Connecticut,Tolland County,9013881200,10289,536,642,52.1,555582.01,54.0,11.4
+Connecticut,Tolland County,9013881300,6189,556,472,73.7,,0,16.6
+Connecticut,Tolland County,9013881500,5946,158,363,82.2,,0,8.8
+Connecticut,Tolland County,9013890100,3858,41,161,83,1938550,502.5,5.2
+Connecticut,Tolland County,9013890201,3878,18,128,83.8,,0,3.8
+Connecticut,Tolland County,9013890202,5205,18,90,83.4,,0,2.1
+Connecticut,Windham County,9015800300,6430,415,1913,73.8,2571984.27,400.0,36.2
+Connecticut,Windham County,9015800400,4040,147,1498,77.5,,0,40.7
+Connecticut,Windham County,9015800500,7007,108,1492,82.9,,0,22.8
+Connecticut,Windham County,9015800600,4394,181,2762,61.5,,0,67.0
+Connecticut,Windham County,9015800700,3397,139,988,71.4,,0,33.2
+Connecticut,Windham County,9015815000,2305,25,110,81.2,,0,5.9
+Connecticut,Windham County,9015820000,1863,3,46,83.1,1359000,729.5,2.6
+Connecticut,Windham County,9015825000,1726,10,58,81.4,,0,3.9
+Connecticut,Windham County,9015830100,4317,43,152,81.8,1798071.6,416.5,4.5
+Connecticut,Windham County,9015900100,4570,22,40,89.1,,0,1.4
+Connecticut,Windham County,9015900200,4888,29,126,89.2,2214650.49,453.1,3.2
+Connecticut,Windham County,9015901100,7964,30,119,83.1,1800000,226.0,1.9
+Connecticut,Windham County,9015902200,1749,3,45,85.5,,0,2.7
+Connecticut,Windham County,9015902500,4247,26,82,82.8,475500,112.0,2.5
+Connecticut,Windham County,9015903100,7240,100,260,81.7,1932406.54,266.9,5.0
+Connecticut,Windham County,9015903200,2344,15,22,82.5,,0,1.6
+Connecticut,Windham County,9015904100,7466,64,120,81.1,,0,2.5
+Connecticut,Windham County,9015904400,4085,44,138,84.9,1386725.39,339.5,4.5
+Connecticut,Windham County,9015904500,5819,136,258,73.1,3841747.74,660.2,6.8
+Connecticut,Windham County,9015905100,8210,226,325,80.4,750000,91.4,6.7
+Connecticut,Windham County,9015906100,5132,51,94,81.4,900000,175.4,2.8
+Connecticut,Windham County,9015907100,4413,37,184,86.6,,0,5.0
+Connecticut,Windham County,9015907200,5506,64,244,77,,0,5.6
+Connecticut,Windham County,9015907300,5486,59,223,78.8,964515.66,175.8,5.1
+Connecticut,Windham County,9015908100,3830,18,52,77.2,379829.17,99.2,1.8
